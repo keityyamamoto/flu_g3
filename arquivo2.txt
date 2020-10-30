@@ -1,1 +1,5 @@
 caso de uso 2.
+
+
+
+incluindo funcionalidade Z.
